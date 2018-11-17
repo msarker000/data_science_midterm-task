@@ -1,0 +1,40 @@
+1. Which is not part of python collections:
+  A) Counter
+  B) re
+  C) OrderedDict
+  D) calendar
+
+  Answer:   D
+  Explanation: calendar is not from collections. calendar is itself a python module
+
+2. Which module in Python supports regular expressions?
+  A) re
+  B) regex
+  C) pyregex
+  D) none of the mentioned
+
+  Answer: A
+  Explanation: re is a part of the standard library and can be imported using: import re.
+
+3. Suppose list1 is [4, 2, 2, 4, 5, 2, 1, 0], Which of the following is correct syntax for slicing
+operation?
+  A) print(list1[0])
+  B) print(list1[:2])
+  C) print(list1[:-2])
+  D) all of the mentioned
+
+  Answer: d
+  Explanation: Slicing is allowed in lists
+
+
+4. What will be the output?
+   t = (1, 2, 4, 3, 8, 9)
+   [t[i] for i in range(0, len(t), 2)]
+
+   A) [2, 3, 9]
+   B) [1, 2, 4, 3, 8, 9]
+   C) [1, 4, 8]
+   D) (1, 4, 8)
+
+Answer:  C
+Explanation: List comprehension in the second line and in range using 2 as third params, it will return 0, 2, 4

@@ -38,3 +38,49 @@ operation?
 
 Answer:  C
 Explanation: List comprehension in the second line and in range using 2 as third params, it will return 0, 2, 4
+
+
+5. which are correct statement about machine learning
+  A) Giving computers the ability to learn to make decisions from data
+  B) Learning to predict whether an email is spam or not is an example of supervised Learning
+  C) Uncovering hidden patterns from unlabeled data is an example of unsupervised learning
+  D) All of above
+
+  Answer: D
+
+6. Which of the following step is performed by data scientist after acquiring the data ?
+ A) Data Cleansing
+ B) Data Integration
+ C) Data Replication
+ D) All of the Mentioned
+
+ Answer: A
+ Explanation: Data cleansing, data cleaning or data scrubbing is the process of detecting and correcting (or removing) corrupt or inaccurate records from a record set, table, or database.
+
+7.Which of the following testing is concerned with making decisions using data ?
+  A) Probability
+  B) Hypothesis
+  C) Causal
+  D) None of the mentioned
+
+  Answer: B
+  Explanation: The null hypothesis is assumed true and statistical evidence is required to reject it in favor of a research or alternative hypothesis.
+
+
+8.  ____  projection is used by google map.
+
+  A) Mercator
+  B) Gall Petter
+  C) Robinsion
+  D) Gnomonic
+
+  Answer:  A
+
+9.  Which of the following is not a machine learning algorithm?
+  A) SVG
+  B) SVM
+  C) Random forest
+  D) None of the Mentioned
+
+ Answer: A
+ Explanation: SVM stands for scalable vector machine.

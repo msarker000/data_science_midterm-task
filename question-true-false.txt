@@ -40,3 +40,18 @@ Explanation: python dict support in
 
   Answer: A
   Explanation: “Support Vector Machine” (SVM) is a supervised machine learning algorithm which can be used for both classification or regression challenges
+
+
+  6. mutate function is used for casting as multi dimensional arrays.
+    A) True
+    B) False
+
+  Answer: B
+  Explanation: mutate is used for adding new variables.
+
+  7. PCA is most useful for non linear type models.
+    A) True
+    B) False
+
+  Answer: B
+  Explanation: PCA is most useful for linear type models.
